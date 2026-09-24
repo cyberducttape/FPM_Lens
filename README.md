@@ -2,7 +2,7 @@
 
 **Explainable PHP-FPM capacity planning, with a review-first terminal UI.**
 
-[![CI](https://github.com/itchyitchy123/FPM_Lens/actions/workflows/test.yml/badge.svg)](https://github.com/itchyitchy123/FPM_Lens/actions/workflows/test.yml)
+[![CI](https://github.com/cyberducttape/FPM_Lens/actions/workflows/test.yml/badge.svg)](https://github.com/cyberducttape/FPM_Lens/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-0b7285.svg)](LICENSE)
 
 ![FPM Lens social preview](docs/assets/social-preview.png)
